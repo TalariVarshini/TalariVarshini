@@ -46,7 +46,7 @@
 
 ### 🏅 Achievements
 - 🥇 Finalist (Top 4/50+) – **Boardroom Competition**, E-Merge’23, IIT Hyderabad  
-- 🎤 Hosted cultural event **Elysium x Euphony 2025** as formal anchor
+- 🎤 Hosted cultural event **Elysium x Euphony 2025** as formal MC
 
 ---
 
