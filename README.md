@@ -11,7 +11,7 @@
 - 🎓 B.Tech in Artificial Intelligence & Machine Learning (2022–26), MLRITM  
 - 🤖 Passionate about applying AI/ML to real-world challenges  
 - 🛠️ Focused on Python, Machine Learning, Generative AI & Full-Stack Innovation  
-- 🌐 Currently exploring projects in **GenAI, CV, and real-time data solutions**
+- 🌐 Currently exploring projects in **GenAI, ServiceNow, ML, and real-time data solutions**
 
 ---
 
