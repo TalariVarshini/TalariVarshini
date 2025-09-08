@@ -29,8 +29,7 @@
 
 ### 🧠 Projects
 - 🔍 **Fake Profile Identification System** – ML model to detect fake user profiles based on behavioral patterns  
-- 🛡️ **Vigilant Women – Women Safety App** – Real-time location tracking + SOS alert system using Python & OpenCV
-
+- 🎶 EchoVerse – Where the Audio Meets Intelligence – Deep learning-based raga classification app with real-time audio analysis & multilingual song support
 ---
 
 ### 🧾 Certifications
