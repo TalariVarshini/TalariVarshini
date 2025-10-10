@@ -52,7 +52,7 @@
 ### 📫 How to reach me:
 - 📧 varshinitalari525@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/varshinitalari)  
-- 📄 [Resume](https://drive.google.com/file/d/1ygTnPFIZJEmHhLp3tWeLcrJWqcuPUOdg/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1poFZk8ZDMPCf8NVzCV9wDe7q4J_rdmMQ/view?usp=sharing)
 
 ---
 
